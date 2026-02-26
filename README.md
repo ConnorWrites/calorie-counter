@@ -5,7 +5,7 @@ A browser-based calorie counter that helps users track daily calorie intake and 
 ---
 
 ## 🚀 Live Demo
-👉 **[Add your Render live link here]**
+https://calorie-counter-bg9h.onrender.com
 
 ---
 
